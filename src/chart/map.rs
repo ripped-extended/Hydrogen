@@ -1,0 +1,1 @@
+// internal chart data model
